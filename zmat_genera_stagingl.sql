@@ -1,16 +1,6 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : LCC PrePRD
-Source Server Version : 50712
-Source Host           : 10.99.206.164:3306
-Source Database       : lenovo_emea
-
-Target Server Type    : MYSQL
-Target Server Version : 50712
-File Encoding         : 65001
-
-Date: 2018-03-23 17:40:22
 */
 
 SET FOREIGN_KEY_CHECKS=0;
